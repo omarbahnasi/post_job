@@ -1,0 +1,17 @@
+    {
+        "job_name": "job_name",
+        "job_description": "job_description",
+        "job_skills": [ "list of skills"],
+        
+        "job_type": "part job",
+        "job_location": "test",
+        "salary": "50",
+        "job_duration": "1",
+        "job_img_url": "image",
+        "createdAt": "2023-04-19T15:02:23.399Z",
+        "updatedAt": "2023-04-19T15:02:23.399Z",
+        "id": "6440027f06c9ae600b36a5e5",
+        "author": "test-user",
+        "user_id": "6449249fe8392437d61826ff",
+        "is_verified": false
+    }
